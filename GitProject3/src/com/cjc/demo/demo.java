@@ -11,7 +11,11 @@ public class demo {
 		System.out.println("subtraction is");
 		
 	}
-	
+	public void multiplication()
+	{
+		System.out.println("multiplication is");
+		
+	}
 	
 	public static void main(String[] args) {
 		System.out.println("hello");
