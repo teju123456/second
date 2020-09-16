@@ -16,6 +16,11 @@ public class demo {
 		System.out.println("multiplication is");
 		
 	}
+	public void division()
+	{
+		System.out.println("division is");
+		
+	}
 	
 	public static void main(String[] args) {
 		System.out.println("hello");
